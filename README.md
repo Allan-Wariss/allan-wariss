@@ -2,19 +2,19 @@
 
 ###
 
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/102264563?v=4"  />
-
-###
-
-<p align="left">My name is Allan, I am an undergraduate student in Computer Science at the Federal University of Ceará (UFC).</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
+<p align="left">I am an undergraduate student in Computer Science at the Federal University of Ceará (UFC).</p>
+
+###
+
 <p align="left">✨ FullStack developer</p>
+
+###
+
+<img align="right" height="200" src="https://avatars.githubusercontent.com/u/102264563?v=4"  />
 
 ###
 
