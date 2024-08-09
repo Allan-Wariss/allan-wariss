@@ -44,7 +44,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/allan-wariss/allan-wariss/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/allan-wariss/allan-wariss/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
