@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Back-End:<br>•NestJs<br>•CakePHP<br>•Java<br>•SpringBoot<br>•NodeJs<br><br>Front-End:<br>•JavaScript<br>•TypeScript<br>•React<br><br>Mobile:<br>•React Native<br><br>Data:<br>•PostgreSql<br>•MySql<br>•MongoDB</p>
+<p align="left">Back-End:<br>•NestJs<br>•CakePHP<br>•Java<br>•SpringBoot<br>•NodeJs<br><br>Front-End:<br>•JavaScript<br>•TypeScript<br>•React<br>•NextJs<br><br>Mobile:<br>•React Native<br><br>Data:<br>•PostgreSql<br>•MySql<br>•MongoDB</p>
 
 ###
 
